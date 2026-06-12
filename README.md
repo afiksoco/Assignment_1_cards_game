@@ -57,4 +57,8 @@ and stop when the game stops. No code changes needed.
 
 ## Demo
 
-_Add screenshots and a short video here before submission._
+| Menu (light, East side) | Menu (dark, West side) | Game |
+| --- | --- | --- |
+| ![Menu light](docs/screenshots/menu-east-light.png) | ![Menu dark](docs/screenshots/menu-west-dark.png) | ![Game](docs/screenshots/game.png) |
+
+_Video walkthrough: add a short screen recording here before submission._
