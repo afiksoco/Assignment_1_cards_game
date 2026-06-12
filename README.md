@@ -61,4 +61,4 @@ and stop when the game stops. No code changes needed.
 | --- | --- | --- |
 | ![Menu light](docs/screenshots/menu-east-light.png) | ![Menu dark](docs/screenshots/menu-west-dark.png) | ![Game](docs/screenshots/game.png) |
 
-_Video walkthrough: add a short screen recording here before submission._
+**▶ Video walkthrough:** [docs/demo.mp4](docs/demo.mp4) — a full playthrough (menu → game → summary).
